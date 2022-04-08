@@ -27,3 +27,15 @@ Golang的并发编程的性能不如异步复用的 I/O 模型，因此 Golang �
 协程之间的通讯方式有那些？
 
 Golang 中 GC 的过程是什么样的？
+
+Golang 不支持循环引用的优点和缺点？
+
+Golang 中初始化顺序是什么样的？
+
+Golang 中的 defer 退出顺序是什么样的？
+
+Golang 为什么不支持类型隐式转换？（比如：int 自动转换为 int64）
+
+Golang 的命令详解？
+
+Golang 代码规范？
